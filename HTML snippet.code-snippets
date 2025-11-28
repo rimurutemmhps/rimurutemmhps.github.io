@@ -1,0 +1,25 @@
+{
+  "HTML Basic Document for Lab7": {
+    "prefix": "labhtml",
+    "scope": "html",
+    "description": "Creates a basic HTML document with meta, link, and author comment",
+    "body": [
+      "<!DOCTYPE html>",
+      "<html lang=\"en\">",
+      "<head>",
+      "    <meta charset=\"UTF-8\">",
+      "    <meta name=\"author\" content=\"Mykhailo\">",
+      "    <meta name=\"description\" content=\"Basic HTML snippet for lab work\">",
+      "    <!-- Created by: Mykhailo -->",
+      "    <link rel=\"stylesheet\" href=\"future-style.css\">",
+      "    <title>$1</title>",
+      "</head>",
+      "<body>",
+      "",
+      "    $2",
+      "",
+      "</body>",
+      "</html>"
+    ]
+  }
+}
